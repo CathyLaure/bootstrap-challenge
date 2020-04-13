@@ -1,8 +1,9 @@
-.textbox {
-	border:3px black solid;
-	background-color: gray;
-	border-right: 12px;
+.text-box {
+	border:thin #868686 solid;
+	background-color: #d6d6d6;
+	border-radius: 12px;
 	padding-top: 10px;
+	text-align: center;
 }
 
 footer {
