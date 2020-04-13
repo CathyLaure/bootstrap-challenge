@@ -1,0 +1,19 @@
+.textbox {
+	border:3px black solid;
+	background-color: gray;
+	border-right: 12px;
+	padding-top: 10px;
+}
+
+footer {
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
+.img {
+	border-radius: 200px;
+}
+.gab {
+	margin-top: 40px;
+}
